@@ -8,6 +8,9 @@
 📚 Este proyecto también funciona como un espacio personal donde comparto conocimientos, experimentos, ideas, recursos y desarrollos orientados a la comunidad tecnológica y de código abierto.
 
 📄 Muchos de mis proyectos están publicados bajo la licencia **MIT License**, permitiendo que otros desarrolladores puedan usar, modificar y contribuir libremente al código respetando los términos de la licencia.
+
+🧩 Blogger Template developed using XML, HTML, CSS and JavaScript.
+
 <br>
 <br>
 <img width="1360" height="607" alt="Captura de pantalla_2026-05-07_20-43-22" src="https://github.com/user-attachments/assets/c6d24530-e882-463d-8875-4dc29b4591c5" />
