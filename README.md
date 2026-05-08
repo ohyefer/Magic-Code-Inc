@@ -8,3 +8,7 @@
 
 📄 Muchos de mis proyectos están publicados bajo la licencia **MIT License**, permitiendo que otros desarrolladores puedan usar, modificar y contribuir libremente al código respetando los términos de la licencia.
 
+<img width="1359" height="610" alt="Captura de pantalla_2026-05-07_20-35-12" src="https://github.com/user-attachments/assets/03e3229b-fc96-419d-b9fe-4838d5906a27" />
+
+
+
