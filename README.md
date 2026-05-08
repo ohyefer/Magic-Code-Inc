@@ -9,7 +9,7 @@
 
 📄 Muchos de mis proyectos están publicados bajo la licencia **MIT License**, permitiendo que otros desarrolladores puedan usar, modificar y contribuir libremente al código respetando los términos de la licencia.
 
-🧩 Blogger Template developed using XML, HTML, CSS and JavaScript.
+🧩 Blogger Template developed usando XML, HTML, CSS and JavaScript.
 
 <br>
 <br>
