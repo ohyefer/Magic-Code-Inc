@@ -1,4 +1,4 @@
-<center><img width="150" height="173" alt="imagen" src="https://github.com/user-attachments/assets/de4f8392-0c2f-4e48-bd11-942863bf9e8b" /></center>
+<img width="150" height="173" alt="imagen" src="https://github.com/user-attachments/assets/de4f8392-0c2f-4e48-bd11-942863bf9e8b" />
 
 ✨ Soy el creador de **Magic Code Inc**, una marca y proyecto personal desarrollado para representar mi visión tecnológica, creativa e innovadora dentro del mundo del desarrollo de software.
 
